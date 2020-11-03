@@ -1,7 +1,7 @@
 variable "appname" {
   type = string
   description = "Application name. Use only lowercase letters and numbers"
-  default = "starterterraform"
+  default = "starterterraform110220"
 }
 
 variable "environment" {
