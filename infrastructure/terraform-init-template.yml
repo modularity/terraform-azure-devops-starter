@@ -8,7 +8,7 @@ parameters:
   TerraformBackendResourceGroup: terraform
   TerraformBackendStorageAccount: tfstate110220
   TerraformBackendStorageContainer: terraformstate
-  TerraformBackendLocation: East US
+  TerraformBackendLocation: North Europe
 
 steps:
 
