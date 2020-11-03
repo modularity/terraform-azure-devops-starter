@@ -15,7 +15,7 @@ Guidance on onboarding samples to docs.microsoft.com/samples: https://review.doc
 Taxonomies for products and languages: https://review.docs.microsoft.com/new-hope/information-architecture/metadata/taxonomies?branch=master
 -->
 
-This project can be used as a starter for Azure Pipelines deploying resources on Terraform.
+This project can be used as a starter for Azure Pipelines deploying resources on Terraform with nested YAML templates.
 
 ![pipeline jobs](/docs/images/terraform_starter/pipeline_jobs.png)
 
