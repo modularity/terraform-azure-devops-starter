@@ -7,6 +7,7 @@ terraform {
 provider "azurerm" {
   # It is recommended to pin to a given version of the Provider
   version = "=1.44.0"
+  skip_provider_registration = "true"
 }
 
 # Data
